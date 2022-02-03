@@ -1,0 +1,28 @@
+<section class="wrapper style1 align-center">
+<div class="inner">
+<div class="index align-left">
+
+<section>
+
+    <header>
+        {{ with .title }}<h3>{{ . }}</h3>{{ end }}
+    </header>
+    
+    <div class="content">
+
+    <p>
+        {{ with .image1 }} <span class="image left"><img src={{ . }} alt="" /></span> {{ end }}
+        {{ with .text1 }} <div style='margin-left: 10px'> {{ . | markdownify }} </div> {{ end }}
+    </p>
+
+    <p>
+        {{ with .image2 }} <span class="image right"><img src={{ . }} alt="" /></span> {{ end }}
+        {{ with .text2 }} {{ . | markdownify }} {{ end }}
+    </p>
+
+    </div>
+
+</section>
+</div>
+</div>
+</section>
