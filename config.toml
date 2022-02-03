@@ -22,6 +22,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   description = "Ein modularer hoch anpassbarer Fahradanhaenger"
   logo = "images/anhaenger_logo.jpg"
   favicon = false
+  custom_css = ["css/custom.css"]
 
 [Params.social]
   github = "https://github.com/caressofsteel/"

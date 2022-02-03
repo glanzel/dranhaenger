@@ -1,0 +1,8 @@
+ul {
+    list-style-position: inside;
+    padding-left: 0px;
+}
+
+li {
+    padding-left: 0px !important;
+}
