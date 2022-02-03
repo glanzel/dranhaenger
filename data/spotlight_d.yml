@@ -1,0 +1,40 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Bauteile"
+teaser: |
+  Du brauchst folgende Werkzeuge und Material. Die meisten Dinge kannst du ueber die verlinkten Seiten bestellen.
+subtitle1: "Werkzeug" 
+content1: |
+    <ul> 
+    <li>Kappsäge (alternativ Stichsäge) </li>
+    <li>Nietzange </li><li>Akkuschrauber/-bohrer </li>
+    <li>Cobalt-Bohrer (3mm, 4.2mm, ~10mm) </li>
+    <li>Schraubzwingen </li></ul> 
+image1: "images/bauteile.jpg"
+subtitle2: "Verbrauchsmaterial" 
+content2: |
+  <ul> 
+    <li> <a href='https://www.ebay.de/itm/143658431423' target='_blank'>Edelstahl Bliendnieten Durchmesser 4mm </a> (100x 8mm Länge, 50x 10mm Länge) </li> 
+    <li> 8x <a href='https://www.ebay.de/itm/Senkkopfschrauben-DIN-7991-M3-M4-M5-M6-M8-M10-M12-Edelstahl-V2A-Innensechskant/323738435914' target='_blank'>Gewindeschrauben </a> für die Achsaufnahme</li> <li> 8x Senkkopfschrauben M3x8</li> 
+    <li> 8x <a href='https://www.ebay.de/itm/Sechskantmuttern-DIN-985-Edelstahl-A2-M2-5-bis-M20-Sicherungsmuttern-Stopmuttern/324116285208' target='_blank'>Sechskantmuttern M3</a> </li> 
+    <li> 25x <a href='https://www.ebay.de/itm/Unterlegscheiben-DIN-125-Edelstahl-V2A-M2-M24-U-Scheiben-Beilagscheiben-Form-A/324044019989' target='_blank'> Unterlegscheiben M5x2mm </a> (um bei Bedarf Höhenunterschiede beim Nieten auszugleichen; wird unten in der Anleitung nicht explizit erwähnt)</li> 
+  </ul>
+  <b>Baumaterial:</b>
+    <ul>
+    <li><a href='https://www.metallparadies.de/aluminium-lochblech-rundlochung.html' target='_blank'> 82x62x0.1cm Lochblech</a></li>
+    <li><a href='https://www.gemmel-metalle.de/aluminium/winkel---eloxiert/eloxiert/aluminiumwinkel-eloxiert-13357.html' target='_blank'> 6.0x2.5x0.2cm Aluminium L-Profile in mindestens 372cm Länge (besser etwas mehr)</a></li>
+    <li><a href='https://www.gemmel-metalle.de/aluminium/rohre---vierkant---eloxiert/eloxiert/aluminiumvierkantrohr-eloxiert-8940.html' target='_blank'> 3.0x3.0x0.2cm Aluminium Vierkantprofile in 82cm Länge </a></li>
+    <li><a href='https://www.gemmel-metalle.de/aluminium/rohre---vierkant---eloxiert/eloxiert/aluminiumvierkantrohr-eloxiert-13219.html' target='_blank'> 2.5x2.5x0.2cm Aluminium Vierkantprofile in XXcm Länge</a></li>
+    <li><a href='https://www.gemmel-metalle.de/aluminium/rohre---vierkant---eloxiert/eloxiert/aluminiumvierkantrohr-eloxiert-13219.html' target='_blank'> 1.5x1.5x0.15cm Aluminium L-Profile in XXcm Länge</a></li>
+    </ul>
+  <b>Spezialteile:</b>
+    <ul>
+    <li>1x <a href='https://www.ebay.de/itm/372861549180' target='_blank'> Universal-Anhängerkupplung</a> </li>
+    <li>2x <a href='https://www.hinterher.com/shop.php#zubehoer' target='_blank'> Steckachsen (Quick-release-Achse) mit Alukappe (Länge 125mm) </a> </li>
+    <li>2x <a href='https://www.hinterher.com/shop.php#zubehoer' target='_blank'> Achsaufnahme Kunststoff </a> </li>
+    <li>2x 20-Zoll Laufrad, z.B. <a href='https://www.kaufland.de/product/359484204/' target='_blank'> diese</a> </li>
+    <li>300cm Kantenschutzprofil </li>
+    <li>1x Vorhängeschloss </li>
+    </ul>
+image2: "images/bauteile.jpg"
