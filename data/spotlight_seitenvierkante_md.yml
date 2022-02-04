@@ -1,0 +1,21 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in color7 invert"
+id: "first"
+title : "Vierkant-Seitenteile für Zubehör und Stabilisierung"
+teaser: ""
+subtitle1: "Bauteile" 
+content1: |
+   - 4x 3.0x3.0x0.2cm Vierkant in 10cm Länge
+   - [8x Senkkopfschrauben M3x](https://www.ebay.de/itm/Senkkopfschrauben-DIN-7991-M3-M4-M5-M6-M8-M10-M12-Edelstahl-V2A-Innensechskant/323738435914?hash=item4b6050814a:g:8lIAAOSwXvRgFT1a)
+   - [8x Sechskantmuttern M3](https://www.ebay.de/itm/Sechskantmuttern-DIN-985-Edelstahl-A2-M2-5-bis-M20-Sicherungsmuttern-Stopmuttern/324116285208?var=513166555092)
+image1: "images/vierkante1.jpg"
+subtitle2: "Arbeitsschritte:" 
+content2: |
+   Angegeben sind die Schritte für ein Seitenteil. Alle vier Teile werden analog befestigt. Die beiden hinteren Seitenteile dürfen bei Bedarf ca. 2mm über den hinteren Rand des Hängers hinaus stehen.
+   Vierkant (A) am Ende des Seitenteils mit einer Schraubzwinge befestigen, so dass es an der Unterseite XXcm übersteht
+   Zwei große Löcher (10mm) durch die Außenseite des Vierkants bohren
+   Anschließend mit 3mm Bohrer durch die Innenseite des Vierkants und das Gestell bohren
+   Loch mit einem größeren Bohrer vertiefen, so dass der Kopf der Schraube versenkt werden kann
+   Abschließen mit zwei Schrauben (B) und zwei Muttern (C) festschrauben
+
+image2: "images/vierkante2.jpg"

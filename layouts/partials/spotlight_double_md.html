@@ -1,0 +1,21 @@
+<!-- Spotlight -->
+<section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }} >
+    <div class="content pb0" style="padding-bottom:0px; ">
+        {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+        {{ with .teaser }}<p>{{ . | markdownify }}</p>{{ end }}
+        {{ with .subtitle1 }}<h4><b>{{ . }}</b></h4>{{ end }}
+        {{ with .content1 }}{{ . | markdownify }}{{ end }}
+    </div>
+    {{ with .image1 }}<div class="image">
+        <img src="{{ . }}" alt="" />
+    </div>{{ end }}
+</section>
+<section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }} style="box-shadow: none;">
+    <div class="content pt0" style="padding-top:0px">
+        {{ with .subtitle2 }}<h4><b>{{ . }}</b></h4>{{ end }}
+        {{ with .content2 }}{{ . | markdownify }}{{ end }}
+    </div>
+    {{ with .image2 }}<div class="image">
+        <img src="{{ . }}" alt="" />
+    </div>{{ end }}
+</section>
