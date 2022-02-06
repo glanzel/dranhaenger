@@ -1,7 +1,7 @@
 title: "Fertig"
 style: "style2 small onscroll-fade-in"
 content: |
-  Hier noch ein paar bilder vom fertigen Dranhaenger und die Bilder von oben zum vergroessern :) 
+  Hier noch ein paar bilder vom fertigen Dranhänger und die Bilder von oben zum vergrößern :) 
 pictures:
   - image: "images/fertig1.jpg"
     thumb: "images/fertig1.jpg"
@@ -26,7 +26,3 @@ pictures:
   - image: "images/deichsel2.jpg"
     thumb: "images/deichsel2.jpg"
     button: "Details"
-
-
-
-
