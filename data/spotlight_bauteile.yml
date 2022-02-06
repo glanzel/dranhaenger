@@ -3,7 +3,7 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "first"
 title : "Bauteile"
 teaser: |
-  Du brauchst folgende Werkzeuge und Material. Die meisten Dinge kannst du ueber die verlinkten Seiten bestellen.
+  Du brauchst folgende Werkzeuge und Material. Die meisten Dinge kannst du über die verlinkten Seiten bestellen.
 subtitle1: "Werkzeug" 
 content1: |
     <ul> 
