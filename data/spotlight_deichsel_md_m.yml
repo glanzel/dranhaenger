@@ -1,0 +1,17 @@
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in color"
+id: "deichsel"
+title : "Deichsel"
+teaser: ""
+content: |
+    Nun kommen wir zur Deichsel, also dem Teil mit dem Hänger und Fahrrad am Ende verbunden werden.
+    #### **Bauteile**
+    1. 2x 6.0x2.5x0.2cm L-Profil mit XXcm Länge
+    1. 1x 2.5x2.5x0.2cm Vierkant mit XXcm Länge für die kurze Seite der Deichsel
+    1. 1x 2.5x2.5x0.2cm Vierkant mit XXcm Länge für die lange Seite der Deichsel
+    1. 1x Universal-Anhängerkupplung
+
+    #### **Arbeitsschritte**
+    - Kupplung (D) mit dem kürzeren Vierkant (B) verbinden
+    - Die beiden Vierkante (B,C) im XX° Winkel aneinander legen und mittels der beiden L-Profile (A) von oben und unten verbinden
+    - Die überstehenden Ecken der L-Profile abschneiden (ggf. vor dem vernieten)
+image: "images/deichsel2.jpg"
