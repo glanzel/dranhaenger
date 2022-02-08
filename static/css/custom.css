@@ -6,3 +6,7 @@ ul {
 li {
     padding-left: 0px !important;
 }
+
+ol { 
+    list-style-type: upper-alpha; 
+}

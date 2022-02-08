@@ -4,9 +4,8 @@ title : "Dranhänger"
 subtitle: |
   Ein ganz flacher Fahradanhänger.
 content : |
-  Dies wird die Anleitung fuer euren eigenen Dranhaenger.
+  Dies wird die Anleitung für euren eigenen Dranhänger.
 button:
   label : "Los geht's"
   link : "#first"
 image : "images/anhaenger_logo.jpg"
-

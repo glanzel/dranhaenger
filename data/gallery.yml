@@ -1,22 +1,28 @@
-title: "Gestell"
+title: "Fertig"
 style: "style2 small onscroll-fade-in"
 content: |
-  Bauteile:
-  <ul>
-  <li>2x 6.0x2.5x0.2cm L-Profil mit 82cm Länge für die Seitenteile </li>
-  <li>2x 6.0x2.5x0.2cm L-Profil mit 62 Länge für die Vorder- und Rückseite </li>
-  <li>4x 6.0x2.5x0.2cm L-Profil mit je 6cm Länge als Eckverbinder</li>
-  <li>1 Lochblech 82cmx62cm für die Bodenplatte</li>
-  </ul>
+  Hier noch ein paar bilder vom fertigen Dranhänger und die Bilder von oben zum vergrößern :) 
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gestell1.jpg"
-    thumb: "images/gestell1.jpg"
+  - image: "images/fertig1.jpg"
+    thumb: "images/fertig1.jpg"
     button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gestell2.jpg"
-    thumb: "images/gestell2.jpg"
+  - image: "images/fertig2.jpg"
+    thumb: "images/fertig2.jpg"
+    button: "Details"
+
+  - image: "images/fertig3.jpg"
+    thumb: "images/fertig3.jpg"
+    button: "Details"
+
+  - image: "images/anhaenger_logo.jpg"
+    thumb: "images/anhaenger_logo.jpg"
+    button: "Details"
+
+  - image: "images/deichsel1.jpg"
+    thumb: "images/deichsel1.jpg"
+    button: "Details"
+
+  - image: "images/deichsel2.jpg"
+    thumb: "images/deichsel2.jpg"
     button: "Details"

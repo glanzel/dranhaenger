@@ -1,0 +1,20 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in color"
+id: "unterboden"
+title : "Versteifung des Unterbodens"
+teaser: |
+  Das Gestell muss zusätzlich von unten versteift werden damit es sich beim beladen und fahren nicht verwindet. 
+content: |
+    #### **Bauteile**
+    1. 1x 2.5x2.5x0.2cm Vierkant in 62cm Länge als Qürverstrebung nahe der Achsaufnahme
+    1. 1x 2.5x2.5x0.2cm Vierkant in insgesamt XXcm Länge als Diagonalverstrebung (wird in Schritt 2 in vier entsprechende Teile zersägt)
+    1. 1x 1.5x1.5x0.15cm L-Profile in insgesamt XXcm Länge als weitere Diagonalverstrebung (wird in Schritt 3 zunächst in vier entsprechende Teile zersägt)
+
+    #### **Arbeitsschritte**
+    -  Das Vierkantrohr (A) im Abstand von XXcm zur Rückseite des Hängers an den L-Profilen des Gestells vernieten
+    -  Insgesamt vier Vierkantrohre (B) zuschneiden, die sternförmig von der Hängermitte zu den Ecken verlegt werden. Darauf achten, dass die Vierkante nicht genau mit den Ecken, sondern mit den Enden der Seitenteile des Gestells abschließen sollten (siehe Foto). Die Vierkantrohre noch nicht vernieten!
+    -  Insgesamt vier L-Profile (C) zuschneiden, die von den Mitten der Seitenteile des Gestells zu den Mitten der Vorder- und Rückseite verlegt werden. Die L-Profile noch nicht vernieten!
+    -  Die Vierkante (B) und L-Profile (C) wie auf dem Foto gezeigt auf dem Hänger auslegen. Die L-Profile (C) an den Kreuzungspunkten markieren und das Profil an dieser Stelle aussägen, so dass die Teile aufeinander liegen können
+    -  Zunächst nur die drei L-Profile (C), die nicht an der Seite der Deichselaufnahme (linke Vorderseite) liegen mit dem Lochblech vernieten.
+    -  Anschließend zunächst die drei entsprechenden Vierkantprofile (B) mit dem Lochblech und den L-Profilen der Seitenteile vernieten
+image: "images/unterboden1.jpg"

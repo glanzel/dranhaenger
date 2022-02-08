@@ -3,32 +3,32 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "first"
 title : "Bauteile"
 teaser: |
-  Du brauchst folgende Werkzeuge und Material. Die meisten Dinge kannst du ueber die verlinkten Seiten bestellen.
-subtitle1: "Werkzeug" 
+  Du brauchst folgende Werkzeuge und Material. Die meisten Dinge kannst du über die verlinkten Seiten bestellen.
+subtitle1: "Werkzeug"
 content1: |
-    - Kappsäge (alternativ Stichsäge) 
-    - Nietzange - Akkuschrauber/-bohrer 
-    - Cobalt-Bohrer (3mm, 4.2mm, ~10mm) 
-    - Schraubzwingen  
+    - Kappsäge (alternativ Stichsäge)
+    - Nietzange - Akkuschrauber/-bohrer
+    - Cobalt-Bohrer (3mm, 4.2mm, ~10mm)
+    - Schraubzwingen
 image1: "images/bauteile.jpg"
-subtitle2: "Verbrauchsmaterial" 
+subtitle2: "Verbrauchsmaterial"
 content2: |
     - [Edelstahl Bliendnieten Durchmesser 4mm](https://www.ebay.de/itm/143658431423)  (100x 8mm Länge, 50x 10mm Länge)
-    - 8x (https://www.ebay.de/itm/Senkkopfschrauben-DIN-7991-M3-M4-M5-M6-M8-M10-M12-Edelstahl-V2A-Innensechskant/323738435914)Gewindeschrauben  für die Achsaufnahme -  8x Senkkopfschrauben M3x8 
-    - 8x (https://www.ebay.de/itm/Sechskantmuttern-DIN-985-Edelstahl-A2-M2-5-bis-M20-Sicherungsmuttern-Stopmuttern/324116285208)Sechskantmuttern M3 
-    - 25x (https://www.ebay.de/itm/Unterlegscheiben-DIN-125-Edelstahl-V2A-M2-M24-U-Scheiben-Beilagscheiben-Form-A/324044019989) Unterlegscheiben M5x2mm  (um bei Bedarf Höhenunterschiede beim Nieten auszugleichen; wird unten in der Anleitung nicht explizit erwaehnt)
+    - 8x (https://www.ebay.de/itm/Senkkopfschrauben-DIN-7991-M3-M4-M5-M6-M8-M10-M12-Edelstahl-V2A-Innensechskant/323738435914)Gewindeschrauben  für die Achsaufnahme -  8x Senkkopfschrauben M3x8
+    - 8x (https://www.ebay.de/itm/Sechskantmuttern-DIN-985-Edelstahl-A2-M2-5-bis-M20-Sicherungsmuttern-Stopmuttern/324116285208)Sechskantmuttern M3
+    - 25x (https://www.ebay.de/itm/Unterlegscheiben-DIN-125-Edelstahl-V2A-M2-M24-U-Scheiben-Beilagscheiben-Form-A/324044019989) Unterlegscheiben M5x2mm  (um bei Bedarf Höhenunterschiede beim Nieten auszugleichen; wird unten in der Anleitung nicht explizit erwähnt)
     #### **Baumaterial:**
     - (https://www.metallparadies.de/aluminium-lochblech-rundlochung.html) 82x62x0.1cm Lochblech
     - (https://www.gemmel-metalle.de/aluminium/winkel---eloxiert/eloxiert/aluminiumwinkel-eloxiert-13357.html) 6.0x2.5x0.2cm Aluminium L-Profile in mindestens 372cm Länge (besser etwas mehr)
-    - (https://www.gemmel-metalle.de/aluminium/rohre---vierkant---eloxiert/eloxiert/aluminiumvierkantrohr-eloxiert-8940.html) 3.0x3.0x0.2cm Aluminium Vierkantprofile in 82cm Länge 
+    - (https://www.gemmel-metalle.de/aluminium/rohre---vierkant---eloxiert/eloxiert/aluminiumvierkantrohr-eloxiert-8940.html) 3.0x3.0x0.2cm Aluminium Vierkantprofile in 82cm Länge
     - (https://www.gemmel-metalle.de/aluminium/rohre---vierkant---eloxiert/eloxiert/aluminiumvierkantrohr-eloxiert-13219.html) 2.5x2.5x0.2cm Aluminium Vierkantprofile in XXcm Länge
-    - (https://www.gemmel-metalle.de/aluminium/rohre---vierkant---eloxiert/eloxiert/aluminiumvierkantrohr-eloxiert-13219.html) 1.5x1.5x0.15cm Aluminium L-Profile in XXcm Länge  
-    #### **Spezialteile:**  
-    - 1x (https://www.ebay.de/itm/372861549180) Universal-Anhängerkupplung 
-    - 2x (https://www.hinterher.com/shop.php#zubehoer) Steckachsen (Quick-release-Achse) mit Alukappe (Länge 125mm)  
-    - 2x (https://www.hinterher.com/shop.php#zubehoer) Achsaufnahme Kunststoff  
-    - 2x 20-Zoll Laufrad, z.B. (https://www.kaufland.de/product/359484204/) diese 
-    - 300cm Kantenschutzprofil 
+    - (https://www.gemmel-metalle.de/aluminium/rohre---vierkant---eloxiert/eloxiert/aluminiumvierkantrohr-eloxiert-13219.html) 1.5x1.5x0.15cm Aluminium L-Profile in XXcm Länge
+    #### **Spezialteile:**
+    - 1x (https://www.ebay.de/itm/372861549180) Universal-Anhängerkupplung
+    - 2x (https://www.hinterher.com/shop.php#zubehoer) Steckachsen (Quick-release-Achse) mit Alukappe (Länge 125mm)
+    - 2x (https://www.hinterher.com/shop.php#zubehoer) Achsaufnahme Kunststoff
+    - 2x 20-Zoll Laufrad, z.B. (https://www.kaufland.de/product/359484204/) diese
+    - 300cm Kantenschutzprofil
     - 1x Vorhängeschloss x
 
 image2: "images/bauteile.jpg"

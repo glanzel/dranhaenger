@@ -1,0 +1,41 @@
+####################### Spotlight #########################
+<<<<<<< HEAD
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in "
+id: "first"
+title : "Achsaufnahme"
+teaser: ""
+subtitle1: "Bauteile" 
+content1: |
+   - 2x 6x2.5x0.2cm L-Profil mit 6cm Länge zur Aussteifung der Achsaufnahmen
+   - 2x [Achsaufnahme aus Kunststoff](https://www.hinterher.com/shop.php#zubehoer)
+   - 8x Gewindeschrauben, da die mitgelieferten Schrauben zu kurz sind
+   - 2x 2mm Aluminiumblech, ca. 5x5cm     
+image1: "images/achsaufnahme.jpg"
+subtitle2: "Arbeitsschritte:" 
+content2: |
+   Beachten, dass die Achsen an der hinteren Seite der Querverstrebung (Vierkant) angebracht werden.
+   Die kurzen Seiten der L-Profile (A) jeweils mit der Querverstrebung (Vierkant) des Unterbaus verbinden. 
+   Die langen Seiten der L-Profile (A) mit den Seitenteilen des Gestells und der Bodenplatte verbinden. Beachten, dass hierzu ein 2mm Alublech (D) zwischen das L-Profil und die Bodenplatte des Gestells gelegt werden sollte um den Höhenunterschied zu den Seitenteilen auszugleichen
+
+=======
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in color4 invert"
+id: "achsaufnahme"
+title : "Achsaufnahme"
+teaser: |
+  Die Achsaufnahme wird links und rechs am Unterboden befestigt. über sie werden am Ende die Laufräder aufgesteckt.
+subtitle1: "Bauteile"
+content1: |
+    1. 2x 6x2.5x0.2cm L-Profil mit 6cm Länge zur Aussteifung der Achsaufnahmen
+    1. 2x Achsaufnahme aus Kunststoff
+    1. 8x Gewindeschrauben, da die mitgelieferten Schrauben zu kurz sind
+    1. 2x 2mm Aluminiumblech, ca. 5x5cm
+image1: "images/achsaufnahme1.jpg"
+subtitle2: "Arbeitsschritte"
+content2: |
+    Beachten, dass die Achsen an der ***hinteren Seite der Qürverstrebung (Vierkant)*** angebracht werden.
+    - Die kurzen Seiten der L-Profile (A) jeweils mit der Qürverstrebung (Vierkant) des Unterbaus verbinden.
+    - Die langen Seiten der L-Profile (A) mit den Seitenteilen des Gestells und der Bodenplatte verbinden. Beachten, dass hierzu ein 2mm Alublech (D) zwischen das L-Profil und die Bodenplatte des Gestells gelegt werden sollte um den Höhenunterschied zu den Seitenteilen auszugleichen
+    - Achsaufnahmen (B) auf die lange Seite der L-Profile legen, anzeichnen und vorsichtig bohren
+    - Achsaufnahmen festschrauben
+>>>>>>> 5205fafd473262fb25c0083f87c8cbe070480f87
+image2: "images/achsaufnahme2.jpg"
